@@ -19,7 +19,7 @@
 - 19:15 - 19:35 : [RAG in Production](/Seoul/1/2-rag-in-production.pdf) - [유병국](https://www.linkedin.com/in/byungguk-yoo/)
 - 19:35 - 19:45 : 10-min Break time
 - 19:45 - 20:05 : [LLM Evaluation](/Seoul/1/3-llm-in-production-evaluation.pdf) - [이유종](https://www.linkedin.com/in/yujong1ee/)
-- 20:05 - 20:25 : [Generative UX](/Seoul/1/4-generative-ux-in-llm-application.pdf) - [허훈](https://www.linkedin.com/in/huffonism/)
+- 20:05 - 20:25 : [Generative UX](https://speakerdeck.com/huffon/generative-ux-in-llm-application) - [허훈](https://www.linkedin.com/in/huffonism/)
 - 20:30 - 21:00 : 통합 질의응답 (김진우, 유병국, 이유종, 허훈)
 - 21:00 - : 네트워킹
 
