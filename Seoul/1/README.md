@@ -37,7 +37,7 @@
 
 <br>
 
-## Conatct
+## Contact
 
 ```
 karter@linercorp.com
